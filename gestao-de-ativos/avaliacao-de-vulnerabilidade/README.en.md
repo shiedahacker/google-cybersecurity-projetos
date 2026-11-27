@@ -11,7 +11,7 @@ In this activity, I was a newly hired analyst at an e-commerce company. The comp
 
 The problem is that this database has been open to the public since the company started, three years ago. My job was to write a vulnerability assessment report explaining the risks of this to the decision makers and what can be done to protect the server.
 
-The completed report is in [`vulnerability-assessment-en.docx`](vulnerability-assessment-en.docx). There is also a Portuguese version in [`avaliacao-de-vulnerabilidade.docx`](avaliacao-de-vulnerabilidade.docx).
+The completed report is in [`vulnerability-assessment-en.pdf`](vulnerability-assessment-en.pdf). There is also a Portuguese version in [`avaliacao-de-vulnerabilidade.pdf`](avaliacao-de-vulnerabilidade.pdf).
 
 ## The system
 

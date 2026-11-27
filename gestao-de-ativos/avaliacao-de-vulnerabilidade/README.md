@@ -11,7 +11,7 @@ Nesta atividade, eu era um analista recém-contratado em uma empresa de e-commer
 
 O problema é que esse banco de dados está aberto ao público desde que a empresa começou, há três anos. Meu trabalho foi fazer um relatório de avaliação de vulnerabilidade explicando os riscos disso para os gestores e o que pode ser feito para proteger o servidor.
 
-O relatório preenchido está em [`avaliacao-de-vulnerabilidade.docx`](avaliacao-de-vulnerabilidade.docx). Também tem a versão em inglês em [`vulnerability-assessment-en.docx`](vulnerability-assessment-en.docx).
+O relatório preenchido está em [`avaliacao-de-vulnerabilidade.pdf`](avaliacao-de-vulnerabilidade.pdf). Também tem a versão em inglês em [`vulnerability-assessment-en.pdf`](vulnerability-assessment-en.pdf).
 
 ## O sistema avaliado
 

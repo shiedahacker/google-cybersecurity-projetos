@@ -1,0 +1,3 @@
+# Documentos editáveis ficam só no computador local; no GitHub vão apenas os PDFs
+*.docx
+~$*

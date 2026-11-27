@@ -7,7 +7,7 @@
 
 Nesta atividade, o cenário era o de uma equipe de segurança de um banco comercial fazendo uma avaliação de risco. A equipe já tinha listado cinco riscos para os fundos do banco em um registro de riscos. Meu trabalho foi estimar a probabilidade e a gravidade de cada um, calcular a pontuação e ordenar os riscos por prioridade.
 
-O documento preenchido está em [`registro-de-riscos.docx`](registro-de-riscos.docx). Ele segue o modelo original do curso, em inglês.
+O documento preenchido está em [`registro-de-riscos.pdf`](registro-de-riscos.pdf). Ele segue o modelo original do curso, em inglês.
 
 ## Ambiente operacional
 

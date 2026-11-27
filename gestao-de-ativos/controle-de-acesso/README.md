@@ -9,7 +9,7 @@ Nesta atividade, fui o primeiro profissional de segurança contratado por uma em
 
 Meu trabalho foi fazer a contabilização do incidente: analisar o registro de eventos, cruzar com o diretório de funcionários para identificar quem fez a alteração, apontar as falhas de controle de acesso que permitiram isso e recomendar melhorias.
 
-A planilha preenchida está em [`controle-de-acesso.docx`](controle-de-acesso.docx). O registro de eventos e o diretório de funcionários usados na análise estão em [`exercicio-de-contabilizacao.xlsx`](exercicio-de-contabilizacao.xlsx).
+A planilha preenchida está em [`controle-de-acesso.pdf`](controle-de-acesso.pdf). O registro de eventos e o diretório de funcionários usados na análise estão em [`exercicio-de-contabilizacao.xlsx`](exercicio-de-contabilizacao.xlsx).
 
 ## As evidências
 

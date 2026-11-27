@@ -9,7 +9,7 @@ Nesta atividade, trabalhei como analista em uma empresa de tecnologia educaciona
 
 Meu trabalho foi entender o que levou ao vazamento, estudar o controle de menor privilégio da NIST SP 800-53 (AC-6) e recomendar melhorias para que isso não aconteça de novo.
 
-O documento preenchido está em [`vazamento-de-dados.docx`](vazamento-de-dados.docx). Ele segue o modelo original do curso, em inglês.
+O documento preenchido está em [`vazamento-de-dados.pdf`](vazamento-de-dados.pdf). Ele segue o modelo original do curso, em inglês.
 
 ## O incidente
 
